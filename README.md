@@ -7,7 +7,7 @@
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/norbu-gyeltshen-484ba61b9/)
-- [Email](norbugyeltshen2003@gmail.com)
+- [Email](wilddog3002@gmail.com)
 
 ### 🎯 Fun Fact:
 I love combining tech with real-world challenges. Always up for a coffee chat ☕!
