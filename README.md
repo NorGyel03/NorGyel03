@@ -1,6 +1,6 @@
 # 👋 Hello! I'm NorGyel03
 
-🚀 **Artificial Intelligence/ Machine Learning**  | 💡 **Design and Assembly of Robots** 
+🚀 **Artificial Intelligence/ Machine Learning**  | 💡 **Design and Simulation of Robots** 
 
 ### 🔧 Tech Skills:
 - 💻 Languages: Python, Arduino, JAVA, C, C++, JavaScript 
