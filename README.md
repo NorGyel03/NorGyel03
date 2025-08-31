@@ -6,16 +6,9 @@
 </p>
 
 ---
-Of course. Based on the skills listed in your resume, I have created a categorized tech stack section for your GitHub profile.
+<img src="MyImg.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
 
-The sections below correspond to the categories in your resume: Programming & Databases , AI & Machine Learning , Web Dev & Tools , and Robotics & Hardware.
-
-
-
-
-You can copy and paste the entire code block below into your README.md file.
-
-Markdown
+---
 
 ### 🛠️ Tech Stack
 
