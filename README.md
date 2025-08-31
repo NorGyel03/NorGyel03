@@ -29,8 +29,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<a href="https://github.com/NorGyel03/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NorGyel03&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
 <a href="https://github.com/NorGyel03/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
