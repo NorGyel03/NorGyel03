@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate AI Developer and Robotics Engineer from Bhutan</h3>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=NorGyel03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode,aws,linux,uipath&perline=8" />
   </a>
 </p>
 
