@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Norbu 👋</h1>
 
 <img src="MyImg.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
 
