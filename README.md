@@ -41,8 +41,7 @@
 
 ### 🤝 Connect with Me:
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-url" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-url" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-url" height="30" width="40" /></a>
-<a href="https://your-portfolio-website.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="your-website-url" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/norbu-gyeltshen-484ba61b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-url" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nor_gyel03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-url" height="30" width="40" /></a>
+<a href="https://norbu-gyeltshen.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="your-website-url" height="30" width="40" /></a>
 </p>
