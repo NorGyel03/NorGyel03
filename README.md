@@ -7,14 +7,7 @@
 
 ---
 
-<p align="left"> 🔭 I’m currently working on **[Your Project Name]** </p>
-<p align="left"> 🌱 I’m currently learning **[Technology You're Learning]** </p>
-<p align="left"> 👯 I’m looking to collaborate on **[Types of Projects]** </p>
-<p align="left"> 🤔 I’m looking for help with **[A Challenge or Technology]** </p>
-<p align="left"> 💬 Ask me about **[Topics You're Confident In, e.g., React, Python, etc.]** </p>
-<p align="left"> 📫 How to reach me **[your-email@example.com]** </p>
-<p align="left"> 😄 Pronouns: **[He/Him, She/Her, etc.]** </p>
-<p align="left"> ⚡ Fun fact: **[A Fun Fact About You]** </p>
+
 
 ---
 
