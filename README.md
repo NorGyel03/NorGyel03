@@ -67,17 +67,6 @@ Markdown
   </p>
 
 </div>
-
-
----
-
-### 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode,aws,linux,uipath&perline=8" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats:
