@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Norbu 👋</h1>
-<h3 align="center">A Passionate AI Developer and Robotics Engineer from Bhutan</h3>
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=NorGyel03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 <img src="MyImg.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
