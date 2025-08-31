@@ -36,7 +36,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NorGyelO3&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 </p>
-
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NorGyel03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</p>
 ---
 
 ### 🤝 Connect with Me:
