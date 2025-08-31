@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">A Passionate [Your Title/Role] from [Your Location]</h3>
 
-<!--
-**NorGyel03/NorGyel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 🔭 I’m currently working on **[Your Project Name]** </p>
+<p align="left"> 🌱 I’m currently learning **[Technology You're Learning]** </p>
+<p align="left"> 👯 I’m looking to collaborate on **[Types of Projects]** </p>
+<p align="left"> 🤔 I’m looking for help with **[A Challenge or Technology]** </p>
+<p align="left"> 💬 Ask me about **[Topics You're Confident In, e.g., React, Python, etc.]** </p>
+<p align="left"> 📫 How to reach me **[your-email@example.com]** </p>
+<p align="left"> 😄 Pronouns: **[He/Him, She/Her, etc.]** </p>
+<p align="left"> ⚡ Fun fact: **[A Fun Fact About You]** </p>
+
+---
+
+### 💻 Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+</p>
+
+---
+
+### 🤝 Connect with Me:
+<p align="center">
+<a href="https://linkedin.com/in/your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-url" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-url" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-url" height="30" width="40" /></a>
+<a href="https://your-portfolio-website.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="your-website-url" height="30" width="40" /></a>
+</p>
