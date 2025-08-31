@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate [Your Title/Role] from [Your Location]</h3>
+<h1 align="center">Hi there, I'm Norbu 👋</h1>
+<h3 align="center">A Passionate AI Developer and Robotics Engineer from Bhutan</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
