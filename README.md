@@ -31,10 +31,6 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NorGyel03&show_icons=true&theme=tokyonight&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NorGyelO3&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
 </p>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=NorGyel03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
