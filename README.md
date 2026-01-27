@@ -1,5 +1,5 @@
 
-<img src="MyImg.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
+
 
 I'm a final-year CSE student at VIT with a passion for solving meaningful problems by applying AI and Robotics. My expertise lies at the intersection of machine learning and web development, with hands-on experience building automonomous robots and deploying intelligent systems from concept to production. I am currently focused on developing 'Real-Time Assistive Vision System for the Visually Impaired Using YOLOv11, MiDaS Depth Estimation, and OpenCV on ESP32-S3'  and researching advancements in computer vision and generative AI. In my spare time, I enjoy wilderness exploration, hiking, and photography.
 
